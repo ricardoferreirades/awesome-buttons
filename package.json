@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.23.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.2",
+    "highlight": "^0.2.4"
+  },
+  "dependencies": {
+    "generate-gitignore": "^0.2.6",
+    "npm": "^5.6.0"
+  }
+}
